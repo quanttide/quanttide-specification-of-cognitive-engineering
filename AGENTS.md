@@ -10,6 +10,12 @@
 - `docs/situation.md`：情境数据规范。
 - `docs/schema.md`：图式数据规范，含子类型。
 
+## 文件结构
+
+- `AGENTS.md`、`README.md` 位于根目录。
+- 内容文档位于 `docs/` 目录。
+- 根目录预留空间给未来新增的契约文件（`contract/`）、映射表（`registry/`）等其他格式的资源。
+
 ## 规范
 
 - 字段定义使用 `- \`field\`: 必选/推荐/可选. Description.` 格式。
