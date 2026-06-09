@@ -19,4 +19,3 @@
 ## 变更
 
 - 修改规范后先提交推送本仓，再更新主仓库的子模块指针。
-- 数据模型的变更需同步更新 Rust 实现（`packages/quanttide-think-toolkit/packages/rust/`）。
