@@ -6,7 +6,7 @@
 
 - `source`: 必选。源情境名称，对应 Situation.name。
 - `target`: 必选。目标情境名称，对应 Situation.name。
-- `type`: 必选。关系类型枚举值。
+- `relation_type`: 必选。关系类型枚举值。
 - `confidence`: 必选。证据置信度，`high` 或 `low`。
 - `description`: 必选。关系说明，描述为什么两个情境存在该关系。
 
@@ -30,7 +30,7 @@
 # 单条关系
 source: think
 target: product
-type: support
+relation_type: support
 confidence: high
 description: 认知工程的方法论产出直接驱动产品研发的交互范式设计，共享"意图驱动"和"人机协作"核心概念。
 ```
