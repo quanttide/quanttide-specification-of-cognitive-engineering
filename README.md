@@ -7,3 +7,4 @@
 - [意图](docs/intention.md)：人想要达成什么。
 - [情境](docs/situation.md)：当前发生了什么。
 - [图式](docs/schema.md)：认知规律是什么。
+- [情境关系](docs/situation-relation.md)：情境之间的关联。

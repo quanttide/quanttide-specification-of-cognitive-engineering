@@ -4,7 +4,8 @@
 
 首先定义四种认知构件（想法、意图、情境、图式）的数据结构和序列化格式，然后定义各构件在 gallery 中的存储位置和组织方式。
 
-- [想法](docs/thought.md)
-- [意图](docs/intention.md)
-- [情境](docs/situation.md)
-- [图式](docs/schema.md)
+- [想法](thought.md)
+- [意图](intention.md)
+- [情境](situation.md)
+- [图式](schema.md)
+- [情境关系](situation-relation.md)
