@@ -1,6 +1,6 @@
 # 意图
 
-意图（Intention）代表"人想要达成什么"。属于固体域，从 gallery 中只读加载，由 thought clarify 产出。
+意图（Intention）代表"人想要达成什么"。
 
 ## 字段
 

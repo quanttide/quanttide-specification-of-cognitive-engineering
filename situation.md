@@ -1,6 +1,6 @@
 # 情境
 
-情境（Situation）代表"当前发生了什么"。属于固体域，从 gallery 中只读加载，由 intention 和 thought 聚类产生。
+情境（Situation）代表"当前发生了什么"。
 
 ## 字段
 
