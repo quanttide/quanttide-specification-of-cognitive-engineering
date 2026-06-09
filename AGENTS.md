@@ -4,11 +4,11 @@
 
 ## 文件
 
-- `index.md`：首页，规范概述。
-- `thought.md`：想法数据规范。
-- `intention.md`：意图数据规范，含维度枚举。
-- `situation.md`：情境数据规范。
-- `schema.md`：图式数据规范，含子类型。
+- `docs/index.md`：首页，规范概述。
+- `docs/thought.md`：想法数据规范。
+- `docs/intention.md`：意图数据规范，含维度枚举。
+- `docs/situation.md`：情境数据规范。
+- `docs/schema.md`：图式数据规范，含子类型。
 
 ## 规范
 
