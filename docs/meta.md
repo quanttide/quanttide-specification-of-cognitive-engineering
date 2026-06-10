@@ -42,8 +42,3 @@ Domain 代表情境的领域分类。用于将 situation 按认知域归类。
   label: 产品研发
   parent: think
 ```
-
-## 存储位置
-
-- `docs/gallery/meta/world.yaml` — World 映射表
-- `docs/gallery/meta/domain.yaml` — Domain 映射表
